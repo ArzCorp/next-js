@@ -2,6 +2,7 @@
   "name": "next-js",
   "version": "1.0.0",
   "private": true,
+  "description": "Project to practice new features of next js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
